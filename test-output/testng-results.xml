@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76655" started-at="2019-07-18T17:27:51Z" finished-at="2019-07-18T17:29:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76655" started-at="2019-07-18T17:27:51Z" finished-at="2019-07-18T17:29:08Z">
+      <class name="MASHREQHOMEPAGE">
+        <test-method status="PASS" signature="MASHREQHOMEPAGE()[pri:0, instance:MASHREQHOMEPAGE@604ed9f0]" name="MASHREQHOMEPAGE" duration-ms="76638" started-at="2019-07-18T22:57:51Z" finished-at="2019-07-18T22:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MASHREQHOMEPAGE -->
+      </class> <!-- MASHREQHOMEPAGE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
