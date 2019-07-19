@@ -24,7 +24,7 @@ public class ScreenshootGoogle {
  {
  // Open Chrome
 	  System.setProperty("webdriver.chrome.driver","C:\\Users\\user\\Desktop\\chromedriver.exe");
- driver=new ChromeDriver();
+  driver=new ChromeDriver();
   
  // Maximize the window
  driver.manage().window().maximize();
@@ -42,7 +42,8 @@ public class ScreenshootGoogle {
  catch (IOException e)
   {
    System.out.println(e.getMessage());
-  
+   
   }
- driver.close(); }
+ driver.close();
+ }
 }
