@@ -17,7 +17,7 @@ public class MASHREQHOMEPAGE {
   public void MASHREQHOMEPAGE() throws InterruptedException {
 	System.setProperty("webdriver.chrome.driver","C:\\Users\\user\\Desktop\\chromedriver.exe");
 	String URL ="https://www.mashreqbank.com/uae/en/personal/home";
-	WebDriver driver=new ChromeDriver();
+	 driver=new ChromeDriver();
     driver.get(URL);
     Thread.sleep(6000);
     driver.manage().window().maximize();
